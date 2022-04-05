@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccreditAssessment", "AccreditAssessment.csproj", "{F04550CC-079F-44AF-A48F-2DC0C2020E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccreditAssessment.Tests", "..\AccreditAssessment.Tests\AccreditAssessment.Tests.csproj", "{BC1CC2EE-CB45-4858-B927-48C214BEDE14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04550CC-079F-44AF-A48F-2DC0C2020E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04550CC-079F-44AF-A48F-2DC0C2020E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04550CC-079F-44AF-A48F-2DC0C2020E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04550CC-079F-44AF-A48F-2DC0C2020E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1CC2EE-CB45-4858-B927-48C214BEDE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1CC2EE-CB45-4858-B927-48C214BEDE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1CC2EE-CB45-4858-B927-48C214BEDE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1CC2EE-CB45-4858-B927-48C214BEDE14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F749F6-B5D4-42FD-BB0B-78E5F3B9F8FD}
+	EndGlobalSection
+EndGlobal
